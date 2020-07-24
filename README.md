@@ -1,2 +1,2 @@
-# Microservices based Web Messanger
+# Microservice based Web Messenger
 Web messanger using Microservices Approach
