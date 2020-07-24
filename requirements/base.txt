@@ -19,7 +19,7 @@ mock==2.0.0               # via nameko
 nameko==2.8.3             # via -r base.in
 path.py==10.5             # via nameko
 pbr==3.1.1                # via mock
-pyyaml==3.12              # via nameko
+pyyaml==5.1               # via nameko
 redis==2.10.6             # via -r base.in
 requests==2.18.4          # via nameko
 six==1.11.0               # via mock, nameko
