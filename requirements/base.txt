@@ -12,7 +12,7 @@ enum-compat==0.0.2        # via eventlet
 eventlet==0.21.0          # via nameko
 greenlet==0.4.13          # via eventlet
 idna==2.6                 # via requests
-jinja2==2.10              # via -r base.in
+jinja2==2.10.1              # via -r base.in
 kombu==3.0.37             # via nameko
 markupsafe==1.0           # via jinja2
 mock==2.0.0               # via nameko
